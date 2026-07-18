@@ -8,3 +8,6 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+
+//  npm install -D tailwindcss@3
+//  npx tailwindcss init -p
